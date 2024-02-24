@@ -1,0 +1,35 @@
+body
+{
+    background-size:cover;
+}
+
+.heading
+{
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+    color:aquamarine;
+}
+
+.note
+{
+    font-size: 20px;
+    color:aliceblue;
+}
+
+#div1
+{
+    font-size:15px;
+    background-color: antiquewhite;
+}
+
+#copy_right_footer
+{
+position:fixed;
+bottom: 0%;
+color:gray;
+background-color: bisque;
+width: 100%;
+line-height:2;
+text-align: center;
+}
